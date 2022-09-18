@@ -1,0 +1,160 @@
+{
+  "salchipapa": [
+    {
+      "id": 1,
+      "nombre": "Sencilla",
+      "precio": 9000,
+      "ingredientes": "papas, salchichas, lechuga, chongo, queso costeño"
+    },
+    {
+      "id": 2,
+      "nombre": "Mozarella",
+      "precio": 11000,
+      "ingredientes": "papas, salchichas, lechuga, chongo, queso mozarella"
+    }
+  ],
+  "salvajada": [
+    {
+      "id": 1,
+      "nombre": "2 Personas",
+      "precio": 22000,
+      "ingredientes": "papas, salchichas, chorizo, butifarra, carne, pechuga, cerdo, queso mozarella, maíz, lechuga, chongo"
+    },
+    {
+      "id": 2,
+      "nombre": "3 Personas",
+      "precio": 30000,
+      "ingredientes": "papas, salchichas, chorizo, butifarra, carne, pechuga, cerdo, queso mozarella, maíz, lechuga, chongo"
+    }
+  ],
+  "perro": [
+    {
+      "id": 1,
+      "nombre": "Sencillo",
+      "precio": 59000,
+      "ingredientes": "lechuga, chongo, salchicha, queso mozarella"
+    },
+    {
+      "id": 2,
+      "nombre": "Italiano",
+      "precio": 79000,
+      "ingredientes": "lechuga, chongo, salchicha, jamón, queso mozarella"
+    }
+  ],
+  "pizza": [
+    {
+      "id": 1,
+      "nombre": "Jamón y Queso",
+      "precio": 59000
+    },
+    {
+      "id": 2,
+      "nombre": "Tocineta",
+      "precio": 79000
+    }
+  ],
+  "asados": [
+    {
+      "id": 1,
+      "nombre": "Pechuga",
+      "precio": 59000,
+      "ingredientes": "pechuga, ensalada, papitas fritas o bollo"
+    },
+    {
+      "id": 2,
+      "nombre": "Carne",
+      "precio": 79000,
+      "ingredientes": "carne, ensalada, papitas fritas o bollo"
+    }
+  ],
+  "picadas": [
+    {
+      "id": 1,
+      "nombre": "Chorizo",
+      "precio": 59000,
+      "ingredientes": "chorizo, salsa tártara, salsa de tomate, bollo o patacón"
+    },
+    {
+      "id": 2,
+      "nombre": "Butifarra",
+      "precio": 59000,
+      "ingredientes": "butifarra, salsa tártara, salsa de tomate, bollo o patacón"
+    }
+  ],
+  "sandwich": [
+    {
+      "id": 1,
+      "nombre": "Sencillo",
+      "precio": 6000,
+      "ingredientes": "lechuga, tomate, cebolla, jamón, queso mozarella"
+    },
+    {
+      "id": 2,
+      "nombre": "El Gran Sandwich",
+      "precio": 10000,
+      "ingredientes": "lechuga, tomate, cebolla, jamón, queso mozarella"
+    }
+  ],
+  "Hamburguesa + Papas": [
+    {
+      "id": 1,
+      "nombre": "Sencilla",
+      "precio": 9000,
+      "ingredientes": "lechuga, tomate, cebolla, carne, queso mozarella"
+    },
+    {
+      "id": 2,
+      "nombre": "La Pechugona",
+      "precio": 11000,
+      "ingredientes": "lechuga, tomate, cebolla, jamón, pollo, queso mozarella"
+    }
+  ],
+  "desgranados": [
+    {
+      "id": 1,
+      "nombre": "El ñeñe",
+      "precio": 20000,
+      "ingredientes": "carne, pollo, chorizo, butifarra, cerdo, bollo, lechuga, chongo, queso gratinado, maíz"
+    },
+    {
+      "id": 2,
+      "nombre": "Carne",
+      "precio": 15000,
+      "ingredientes": "carne, bollo, lechuga, chongo, queso gratinado, maíz"
+    }
+  ],
+  "bebidas": [
+    {
+      "gaseosas": [
+        {
+          "personal": [
+            {
+              "id": 1,
+              "nombre": "Cocacola",
+              "precio": 2500
+            }
+          ],
+          "1L": [
+            {
+              "id": 1,
+              "nombre": "Cocacola",
+              "precio": 5500
+            }
+          ]
+        }
+      ],
+      "Cervezas": [
+        {
+          "id": 1,
+          "nombre": "Aguila Original",
+          "precio": 3000
+        },
+        {
+          "id": 2,
+          "nombre": "Coronita",
+          "precio": 3000
+        }
+      ]
+    }
+  ]
+}
