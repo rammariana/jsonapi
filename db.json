@@ -1,0 +1,41 @@
+{
+  "salchipapa": [
+    {
+      "id": 1,
+      "nombre": "Sencilla",
+      "precio": 9000,
+      "ingredientes": "papas, salchichas, lechuga, chongo, queso costeño"
+    }
+  ],
+  "salvajada": [
+    {
+      "id": 1,
+      "nombre": "2 Personas",
+      "precio": 22000,
+      "ingredientes": "papas, salchichas, chorizo, butifarra, carne, pechuga, cerdo, queso mozarella, maíz, lechuga, chongo"
+    }
+  ],
+  "perro": [
+    {
+      "id": 1,
+      "nombre": "Sencillo",
+      "precio": 59000,
+      "ingredientes": "lechuga, chongo, salchicha, queso mozarella"
+    }
+  ],
+  "pizza": [
+    {
+      "id": 1,
+      "nombre": "Jamón y Queso",
+      "precio": 59000
+    }
+  ],
+  "asados": [
+    {
+      "id": 1,
+      "nombre": "Pechuga",
+      "precio": 59000,
+      "ingredientes": "pechuga, ensalada, papitas fritas o bollo"
+    }
+  ]
+}
