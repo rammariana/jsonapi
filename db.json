@@ -1,0 +1,50 @@
+{
+  " salchipapas ": [
+    {
+      " identificación ": 1,
+      "tipo": " sencilla ",
+      " precio ": 8500
+    },
+    {
+      " identificación ": 2,
+      "tipo": " El ñeñe ",
+      " precio ": 15000
+    }
+  ],
+  " perros ": [
+    {
+      " identificación ": 1,
+      "tipo": " sencillo ",
+      " precio ": 9500
+    },
+    {
+      " identificación ": 2,
+      "tipo": " especial ",
+      " precio ": 11500
+    }
+  ],
+  " asados ": [
+    {
+      " identificación ": 1,
+      "tipo": " 3 carnes ",
+      " precio ": 19500
+    },
+    {
+      " identificación ": 2,
+      "tipo": " de la granja ",
+      " precio ": 11500
+    }
+  ],
+  " pizzas ": [
+    {
+      " identificación ": 1,
+      "tipo": " margarita ",
+      " precio ": 8500
+    },
+    {
+      " identificación ": 2,
+      "tipo": " peperoni ",
+      " precio ": 10000
+    }
+  ]
+}
