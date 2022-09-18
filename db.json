@@ -1,0 +1,44 @@
+{
+  
+    {
+      "id": 1,
+      "nombre": "Salchipapa Sencilla",
+      "precio": 9000,
+      "ingredientes": "papas, salchichas, lechuga, chongo, queso costeño"
+    },
+    {
+      "id": 2,
+      "nombre": "Perro Sencillo",
+      "precio": 59000,
+      "ingredientes": "lechuga, chongo, salchicha, queso mozarella"
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza Jamón y Queso",
+      "precio": 59000
+    },
+    {
+      "id": 4,
+      "nombre": "Asados Pechuga",
+      "precio": 59000,
+      "ingredientes": "pechuga, ensalada, papitas fritas o bollo"
+    },
+    {
+      "id": 5,
+      "nombre": "Sandwich Sencillo",
+      "precio": 6000,
+      "ingredientes": "lechuga, tomate, cebolla, jamón, queso mozarella"
+    },
+    {
+      "id": 6,
+      "nombre": "Hamburguesa + Papas Sencilla",
+      "precio": 9000,
+      "ingredientes": "lechuga, tomate, cebolla, carne, queso mozarella"
+    },
+    {
+      "id": 7,
+      "nombre": "El ñeñe",
+      "precio": 20000,
+      "ingredientes": "carne, pollo, chorizo, butifarra, cerdo, bollo, lechuga, chongo, queso gratinado, maíz"
+    }
+}
