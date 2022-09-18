@@ -1,0 +1,10 @@
+{
+  "salchipapa": [
+    {
+      "id": 1,
+      "nombre": "Sencilla",
+      "precio": 9000,
+      "ingredientes": "papas, salchichas, lechuga, chongo, queso costeño"
+    }
+  ]
+}
